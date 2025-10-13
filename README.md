@@ -1,2 +1,4 @@
 # Comparison-of-Explicit-and-Semi-Implicit-Schemes-for-1-D-River-Flow-Modelling
-Numerical simulation of unsteady 1-D flow in the Halda River using explicit and semi-implicit schemes, and routing finite-difference methods to analyze water-level and velocity propagation.
+Got it 👍 — here’s a clean, GitHub-ready paragraph summarizing both notebooks:
+
+> This project simulates **unsteady one-dimensional flow in the Halda River** using finite-difference methods under the course *Numerical Modelling in Water and Sediment Transport*. The models implement **explicit, kinematic-wave, and routing schemes** based on the Saint-Venant equations to analyze variations in **water level and velocity** over time. Boundary conditions are read from real or synthetic hydrographs, and stability is maintained through CFL-based time stepping. The work demonstrates how different numerical formulations influence wave propagation and flow behavior in river systems.
