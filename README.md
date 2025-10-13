@@ -46,8 +46,5 @@ This project compares **1D Python-based** and **2D Delft3D** hydrodynamic models
 
 ---
 
-## References
 
-Data from **BWDB** and **Copernicus GLO-30 DEM**.  
-Based on the same dataset as the term paper *“Hydrodynamic Assessment of Tidal-Induced Backwater and Bridge-Induced Velocity Effects on the Halda River Using HEC-RAS.”*
 
