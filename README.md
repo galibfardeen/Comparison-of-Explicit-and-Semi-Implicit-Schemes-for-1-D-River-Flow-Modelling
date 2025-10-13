@@ -1,10 +1,6 @@
 # Comparison-of-Explicit-and-Semi-Implicit-Schemes-for-1-D-River-Flow-Modelling
-This project simulates unsteady one-dimensional flow in the Halda Rive using finite-difference methods under the course *Numerical Modelling in Water and Sediment Transport*. The models implement explicit, kinematic-wave, and routing schemes based on the Saint-Venant equations to analyze variations in water level and velocity over time. Boundary conditions are read from real or synthetic hydrographs, and stability is maintained through CFL-based time stepping. The work demonstrates how different numerical formulations influence wave propagation and flow behavior in river systems.
+This project compares **1D Python-based** and **2D Delft3D** hydrodynamic models to simulate changes in **water level** and **velocity** over time for the **Halda River**, Bangladesh. Both models use field data to assess wave propagation using explicit and semi-implicit numerical schemes. Boundary conditions are read from real or synthetic hydrographs, and stability is maintained through CFL-based time stepping. The work demonstrates how different numerical formulations influence wave propagation and flow behavior in river systems.
 
-
-# 1D and 2D Hydrodynamic Modelling of the Halda River
-
-This project compares **1D Python-based** and **2D Delft3D** hydrodynamic models to simulate changes in **water level** and **velocity** over time for the **Halda River**, Bangladesh. Both models use field data to assess wave propagation using explicit and semi-implicit numerical schemes.
 
 ---
 
